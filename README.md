@@ -1,7 +1,5 @@
 
-
-
-<img src="assets/images/htb.png" style="margin-left: 20px; zoom: 60%;" align=left />    	<font size="10">Great start</font>
+<font size="10">Great start</font>
 
 ​		13<sup>th</sup> 07 2023
 
